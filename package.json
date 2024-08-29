@@ -1,5 +1,5 @@
 {
-  "name": "table",
+  "name": "sg-table",
   "namespace": "@tanstack",
   "private": true,
   "repository": "https://github.com/tanstack/table.git",
